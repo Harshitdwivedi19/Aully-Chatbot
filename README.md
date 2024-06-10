@@ -1,8 +1,3 @@
-# Aully-Chatbot
-Sure, here's a sample README file for your Aully-Chatbot project on GitHub:
-
----
-
 # Aully Chatbot
 
 Aully Chatbot is an interactive chatbot developed using Python and integrated with the Google Gemini API. It aims to provide users with accurate responses to diverse queries in a user-friendly interface.
