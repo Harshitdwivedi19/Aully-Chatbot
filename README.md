@@ -19,7 +19,7 @@ git clone https://github.com/Harshitdwivedi19/Aully-Chatbot.git
 2. Install the required dependencies:
 
 ```bash
-pip install -r requirements.txt
+install the required dependencies
 ```
 
 3. Run the application:
